@@ -58,6 +58,7 @@ function sortearAmigo() {
         ulResultado.appendChild(li);
     }
 }
+//no entiennndoooo
 
 
 
